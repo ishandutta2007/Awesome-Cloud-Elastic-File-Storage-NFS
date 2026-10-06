@@ -65,7 +65,7 @@ Welcome to the ultimate curated directory of **cloud elastic file storage platfo
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[SeaweedFS](https://github.com/seaweedfs/seaweedfs)** [![Stars](https://img.shields.io/github/stars/seaweedfs/seaweedfs?style=social&color=white)](https://github.com/seaweedfs/seaweedfs/stargazers)  
   **Fast distributed blob, object, and POSIX file system**, Apache-2.0 licensed. **Scales to billions of files with O(1) disk read efficiency**. **Supports FUSE mount, S3 API, WebDAV, and Hadoop HDFS**. **Built-in tiering to cloud object storage**. 🌊
@@ -117,7 +117,7 @@ Contributions are welcome! Follow these steps to submit new elastic file storage
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
